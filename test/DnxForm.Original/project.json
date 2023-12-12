@@ -1,0 +1,21 @@
+{
+  "buildOptions": {
+    "allowUnsafe": true,
+    "emitEntryPoint": true,
+    "compile": [
+      "../DnxForm/**/*.cs"
+    ]
+  },
+
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+        "System.Windows.Forms": "4.0.0.0",
+        "System.Drawing": "4.0.0.0"
+      },
+      "dependencies": {
+        "SQ": "*"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "buildOptions": {
+    "emitEntryPoint": true,
+    "debugType": "portable"
+  },
+  "dependencies": {
+    "FastQuant": "*"
+  },
+
+  "frameworks": {
+    "net451": { },
+    "netcoreapp1.0": {
+      "imports": "dnxcore50"
+    }
+  }
+}

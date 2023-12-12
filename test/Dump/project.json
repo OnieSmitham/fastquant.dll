@@ -1,0 +1,12 @@
+{
+  "buildOptionsO": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "SmartQuant": ""
+  },
+  "frameworks": {
+    "net451": { },
+    "dnxcore50": { }
+  }
+}

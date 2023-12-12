@@ -1,0 +1,12 @@
+{
+  "testRunner": "xunit",
+  "dependencies": {
+    "xunit": "2.1.0-*",
+    "dotnet-test-xunit": "1.0.0-rc2-*",
+    "xunit.runner.visualstudio": "2.2.0-beta1-*"
+  },
+  "frameworks": {
+    "net451": { }
+  },
+  "shared": [ "*.cs" ]
+}
